@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:relic/screens/authentication/welcome/welcome.dart';
+import '../../../core/constant/size.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
